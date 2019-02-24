@@ -1,0 +1,20 @@
+C:\Users\deiro\Desktop\Eden World Maniputor 2.0\Eden World Maniputor 2.0\obj\x64\Debug\Eden World Maniputor 2.0.csprojAssemblyReference.cache
+C:\Users\deiro\Desktop\Eden World Maniputor 2.0\Eden World Maniputor 2.0\obj\x64\Debug\Eden_World_Maniputor_2._0.Form1.resources
+C:\Users\deiro\Desktop\Eden World Maniputor 2.0\Eden World Maniputor 2.0\obj\x64\Debug\Eden_World_Maniputor_2._0.Properties.Resources.resources
+C:\Users\deiro\Desktop\Eden World Maniputor 2.0\Eden World Maniputor 2.0\obj\x64\Debug\Eden World Maniputor 2.0.csproj.GenerateResource.cache
+C:\Users\deiro\Desktop\Eden World Maniputor 2.0\Eden World Maniputor 2.0\obj\x64\Debug\Eden World Maniputor 2.0.csproj.CoreCompileInputs.cache
+C:\Users\deiro\Desktop\Eden World Maniputor 2.0\Eden World Maniputor 2.0\bin\x64\Debug\Eden World Maniputor.exe.config
+C:\Users\deiro\Desktop\Eden World Maniputor 2.0\Eden World Maniputor 2.0\bin\x64\Debug\Eden World Maniputor.exe
+C:\Users\deiro\Desktop\Eden World Maniputor 2.0\Eden World Maniputor 2.0\bin\x64\Debug\Eden World Maniputor.pdb
+C:\Users\deiro\Desktop\Eden World Maniputor 2.0\Eden World Maniputor 2.0\obj\x64\Debug\Eden World Maniputor.exe
+C:\Users\deiro\Desktop\Eden World Maniputor 2.0\Eden World Maniputor 2.0\obj\x64\Debug\Eden World Maniputor.pdb
+C:\Users\deiro\Documents\Visual Studio 2017\Projects\Eden World Maniputor 2.0\Eden World Maniputor 2.0\obj\x64\Debug\Eden World Maniputor 2.0.csprojAssemblyReference.cache
+C:\Users\deiro\Documents\Visual Studio 2017\Projects\Eden World Maniputor 2.0\Eden World Maniputor 2.0\obj\x64\Debug\Eden_World_Maniputor_2._0.Form1.resources
+C:\Users\deiro\Documents\Visual Studio 2017\Projects\Eden World Maniputor 2.0\Eden World Maniputor 2.0\obj\x64\Debug\Eden World Maniputor 2.0.csproj.GenerateResource.cache
+C:\Users\deiro\Documents\Visual Studio 2017\Projects\Eden World Maniputor 2.0\Eden World Maniputor 2.0\obj\x64\Debug\Eden World Maniputor 2.0.csproj.CoreCompileInputs.cache
+C:\Users\deiro\Documents\Visual Studio 2017\Projects\Eden World Maniputor 2.0\Eden World Maniputor 2.0\bin\x64\Debug\Eden World Manipulator.exe.config
+C:\Users\deiro\Documents\Visual Studio 2017\Projects\Eden World Maniputor 2.0\Eden World Maniputor 2.0\bin\x64\Debug\Eden World Manipulator.exe
+C:\Users\deiro\Documents\Visual Studio 2017\Projects\Eden World Maniputor 2.0\Eden World Maniputor 2.0\bin\x64\Debug\Eden World Manipulator.pdb
+C:\Users\deiro\Documents\Visual Studio 2017\Projects\Eden World Maniputor 2.0\Eden World Maniputor 2.0\obj\x64\Debug\Eden_World_Manipulator_2._0.Properties.Resources.resources
+C:\Users\deiro\Documents\Visual Studio 2017\Projects\Eden World Maniputor 2.0\Eden World Maniputor 2.0\obj\x64\Debug\Eden World Manipulator.exe
+C:\Users\deiro\Documents\Visual Studio 2017\Projects\Eden World Maniputor 2.0\Eden World Maniputor 2.0\obj\x64\Debug\Eden World Manipulator.pdb

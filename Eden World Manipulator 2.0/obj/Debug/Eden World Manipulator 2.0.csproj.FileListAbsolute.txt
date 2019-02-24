@@ -1,0 +1,10 @@
+C:\Users\deiro\Documents\Visual Studio 2017\Projects\Eden World Manipulator 2.0\Eden World Manipulator 2.0\bin\Debug\Eden World Manipulator.exe.config
+C:\Users\deiro\Documents\Visual Studio 2017\Projects\Eden World Manipulator 2.0\Eden World Manipulator 2.0\bin\Debug\Eden World Manipulator.exe
+C:\Users\deiro\Documents\Visual Studio 2017\Projects\Eden World Manipulator 2.0\Eden World Manipulator 2.0\bin\Debug\Eden World Manipulator.pdb
+C:\Users\deiro\Documents\Visual Studio 2017\Projects\Eden World Manipulator 2.0\Eden World Manipulator 2.0\obj\Debug\Eden World Manipulator 2.0.csprojAssemblyReference.cache
+C:\Users\deiro\Documents\Visual Studio 2017\Projects\Eden World Manipulator 2.0\Eden World Manipulator 2.0\obj\Debug\Eden_World_Maniputor_2._0.Form1.resources
+C:\Users\deiro\Documents\Visual Studio 2017\Projects\Eden World Manipulator 2.0\Eden World Manipulator 2.0\obj\Debug\Eden_World_Manipulator_2._0.Properties.Resources.resources
+C:\Users\deiro\Documents\Visual Studio 2017\Projects\Eden World Manipulator 2.0\Eden World Manipulator 2.0\obj\Debug\Eden World Manipulator 2.0.csproj.GenerateResource.cache
+C:\Users\deiro\Documents\Visual Studio 2017\Projects\Eden World Manipulator 2.0\Eden World Manipulator 2.0\obj\Debug\Eden World Manipulator 2.0.csproj.CoreCompileInputs.cache
+C:\Users\deiro\Documents\Visual Studio 2017\Projects\Eden World Manipulator 2.0\Eden World Manipulator 2.0\obj\Debug\Eden World Manipulator.exe
+C:\Users\deiro\Documents\Visual Studio 2017\Projects\Eden World Manipulator 2.0\Eden World Manipulator 2.0\obj\Debug\Eden World Manipulator.pdb
